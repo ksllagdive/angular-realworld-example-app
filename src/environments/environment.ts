@@ -3,8 +3,9 @@
 // `ng build --env=prod` then `environment.prod.ts` will be used instead.
 // The list of which env maps to which file can be found in `angular-cli.json`.
 // api_url: 'https://conduit.productionready.io/api'
+// api_url: 'https://glacial-hollows-06400.herokuapp.com/api'
 
 export const environment = {
   production: false,
-  api_url: 'https://glacial-hollows-06400.herokuapp.com/api'
+  api_url: 'https://kslagdive1-eval-prod.apigee.net/ksl-blog-api/api'
 };
