@@ -1,0 +1,10 @@
+{
+    "/api": {
+      "target": "https://kslagdive1-eval-prod.apigee.net/ksl-blog-api/api",
+      "secure": true,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/api": ""
+      }
+    }
+  }

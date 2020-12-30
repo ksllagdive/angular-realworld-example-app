@@ -7,5 +7,5 @@
 
 export const environment = {
   production: false,
-  api_url: 'https://kslagdive1-eval-prod.apigee.net/ksl-blog-api/api'
+  api_url: '/api'
 };
